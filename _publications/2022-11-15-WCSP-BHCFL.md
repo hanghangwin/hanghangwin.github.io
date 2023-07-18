@@ -1,7 +1,7 @@
 ---
 title: "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-11-15-WCSP-BHCFL
 excerpt: 'Blockchain-enabled hierarchical cluster-based federated learning framework that improves the accuracy of the global model by implementing hierarchical aggregation based on user cosine similarity and verifies the local model gradient using blockchain technology to ensure the credibility of the local model.'
 date: 2022-11-15
 venue: '2022 14th International Conference on Wireless Communications and Signal Processing (WCSP)'
