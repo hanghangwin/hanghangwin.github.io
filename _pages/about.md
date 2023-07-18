@@ -44,14 +44,15 @@ Publications
 - 黄晓舸, 尹宏博, **吴雨航**, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (发明专利, 导师一作, 已受理).
 - 黄晓舸, 尹宏博, **吴雨航**, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (发明专利, 导师一作, 已受理).
 
-Getting started
+Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **2021.09 - 2023.12**国家自然科学基金重点项目(No. 61831002): 面向智能服务的雾无线接入网络动态协同理论与关键技术
+  - 负责设计基于区块链的分层联邦学习方法
+  - 负责搭建区块链可视化数据平台
+- **2020.04 - 2021.04**国家级大学生科创项目(No. 202010254185): 船用导航信息转发装置
+  - 主持设计NMEA-0183通信协议解析算法
+  - 主持开发基于LoRa技术的一对多传输机制
+
 
 Site-wide configuration
 ------
