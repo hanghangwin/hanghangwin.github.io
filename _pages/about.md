@@ -11,15 +11,17 @@ redirect_from:
 Yuhang Wu received the B.S. degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021.  I am currently working toward the M.S. degree in Information and Communication Engineering with Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm).  My main research interests are federated learning, edge computing network, blockchain and Internet of Vehicles.
 
 <span class='anchor' id='-Education'></span>
+
 Education
 ======
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
 - *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, Bachelor of Engineering
 
 <span class='anchor' id='-Publications'></span>
+
 Publications
 ======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/HAHFL-view.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Internet of Things Journal</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor), Early Access)  
