@@ -21,6 +21,7 @@ Education
 
 Publications
 ======
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
