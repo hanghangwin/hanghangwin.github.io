@@ -24,8 +24,8 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3279983. (IF: 10.6, 1st (supervisor), Early Access)  
-[[Website]](https://dx.doi.org/10.3390/s22093587) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	Xiaoge Huang, Yuhang Wu, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor), Early Access)  
+[[Website]](https://ieeexplore.ieee.org/document/10167763) [[Download]](http://hanghangwin.github.io/files/DAHFL(EarlyAccess).pdf)
 
 </div>
 </div>
