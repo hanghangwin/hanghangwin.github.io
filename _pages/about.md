@@ -12,8 +12,8 @@ Yuhang Wu received the B.S. degree in Communication Engineering from Shanghai Ma
 
 Education
 ======
-- Chongqing University of Posts and Telecommunications
-- Shanghai Maritime University
+- *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
+- *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, Bachelor of Engineering
 
 
 Getting started
