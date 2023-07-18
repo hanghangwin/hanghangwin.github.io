@@ -10,6 +10,6 @@ citation: 'X. Huang, Y. Wu, Z. Chen, Q. Chen and J. Zhang, "Blockchain-enabled E
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/BHCFL.pdf)
+[Download paper here](http://hanghangwin.github.io/files/BHCFL.pdf)
 
 Recommended citation: X. Huang, Y. Wu, Z. Chen, Q. Chen and J. Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," 2022 14th International Conference on Wireless Communications and Signal Processing (WCSP), Nanjing, China, 2022, pp. 33-37, doi: 10.1109/WCSP55476.2022.10039121.
