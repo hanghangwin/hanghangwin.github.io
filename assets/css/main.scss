@@ -117,15 +117,15 @@
     @include breakpoint($medium) {
         .paper-box-video{
             justify-content: left;
-            min-width: 250px;
-            max-width: 62.5%;
+            min-width: 200px;
+            max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 1em;
-            max-width: 30%;
+            max-width: 50%;
             order: 2;
         }
 
