@@ -32,7 +32,7 @@ Researches
 ======
 ## Blockchain
 <div class="video-container">
-  <video src="videos/WeBASE-video.mp4" controls></video>
+  <video src="videos/WeBASE-video.mp4" width="80%" controls></video>
 </div>
 
 <span class='anchor' id='-Publications'></span>
