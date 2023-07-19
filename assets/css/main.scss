@@ -93,10 +93,8 @@
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
     
-
     .paper-box-video{
         justify-content: center;
         display: flex;
@@ -125,7 +123,7 @@
         .paper-box-text{
             justify-content: left;
             padding-top: 1em;
-            max-width: 90%;
+            max-width: 85%;
             order: 2;
         }
 
