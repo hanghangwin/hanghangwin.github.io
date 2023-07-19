@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='-Biography'></span>
+
 Yuhang Wu received the B.S. degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021.  I am currently working toward the M.S. degree in Information and Communication Engineering with Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm).  My main research interests are federated learning, edge computing network, blockchain and Internet of Vehicles.
 
 <span class='anchor' id='-Education'></span>
