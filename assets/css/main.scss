@@ -93,13 +93,13 @@
     align-items: left;
     flex-direction: column;
     flex-wrap: wrap;
-    padding: 1em 0 1em 0;
+    padding: 0.2em 0 0.2em 0;
     
     .paper-box-video{
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 2;
+        order: 1;
         video {
             max-width: 600px;
             box-shadow: 3px 3px 6px #888;
@@ -109,7 +109,7 @@
     
     .paper-box-text{
         max-width: 100%;
-        order: 1;
+        order: 2;
     }
     
     @include breakpoint($medium) {
