@@ -33,9 +33,9 @@ Researches
 ## <span style="color: #00369f;">1.Blockchain</span>
 <div class='paper-box-plus'><div class='paper-box-video'><div><video src='videos/WeBASE-video.mp4' alt="sym" width="100%" controls></video></div></div>
 <div class='paper-box-text' markdown="1">
-Blockchain is very good
-  - one
-  - two
+  <b>Blockchain is very good</b>
+    - one
+    - two
 </div>
 </div>
 
