@@ -26,6 +26,10 @@ Education
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
 - *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, Bachelor of Engineering
 
+Researches
+======
+<video src="videos/WeBASE-video.mp4" width="640" height="480" controls></video>
+
 <span class='anchor' id='-Publications'></span>
 
 Publications
