@@ -7,7 +7,9 @@
    ========================================================================== */
 
 .sidebar {
-  margin-top: 80px;
+  position: sticky;
+  top: 80px;
+  margin-top: 20px;
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
