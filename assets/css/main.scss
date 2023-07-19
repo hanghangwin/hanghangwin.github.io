@@ -134,6 +134,18 @@
 
 }
 
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
