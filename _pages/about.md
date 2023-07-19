@@ -31,7 +31,7 @@ Education
 Researches
 ======
 ## Blockchain
-<div class='paper-box-plus'><div class='paper-box-video'><video src="videos/WeBASE-video.mp4" width="100%" controls></video></div>
+<div class='paper-box-plus'><div class='paper-box-video'><video src="videos/WeBASE-video.mp4" width="100%" controls></div>
 <div class='paper-box-text' markdown="1">
 
 -	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor), Early Access)  
