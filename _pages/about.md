@@ -31,6 +31,7 @@ Education
 Researches
 ======
 ## Blockchain
+<video src="videos/WeBASE-video.mp4" width="70%" controls>
 
 <span class='anchor' id='-Publications'></span>
 
