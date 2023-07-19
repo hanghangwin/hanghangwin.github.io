@@ -89,9 +89,9 @@
 
 .paper-box-plus {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
@@ -103,7 +103,7 @@
         width: 100%;
         order: 2;
         video {
-            max-width: 400px;
+            max-width: 600px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -116,16 +116,16 @@
     
     @include breakpoint($medium) {
         .paper-box-video{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            justify-content: center;
+            min-width: 480px;
+            max-width: 80%;
             order: 1;
         }
         
         .paper-box-text{
-            justify-content: left;
+            justify-content: center;
             padding-left: 1em;
-            max-width: 50%;
+            max-width: 80%;
             order: 2;
         }
 
