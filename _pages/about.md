@@ -83,8 +83,8 @@ Projects
 Honors
 ======
 - ***2023***
-  - 第十四届蓝桥杯python重庆**市一等奖**
-  - 第十届大唐杯重庆**市三等奖**
+  - 第十四届蓝桥杯python重庆**市一等奖** [[获奖证书]](http://hanghangwin.github.io/images/Homors/2023/2023lanqiaoR1.jpg)
+  - 第十届大唐杯重庆**市三等奖** [[获奖证书]](http://hanghangwin.github.io/images/Homors/2023/2023Datang.pdf)
 - ***2022***
   - 硕士二年级学业**特等奖学金**
   - 第十四届蓝桥杯python国赛**国家三等奖**
