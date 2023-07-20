@@ -83,20 +83,22 @@ Projects
 Honors
 ======
 - ***2023***
-  - 第十四届蓝桥杯python重庆**市一等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)
-  - 第十届大唐杯重庆**市三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)
+  - 第十四届蓝桥杯python程序设计重庆市**一等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)
+  - 第十届大唐杯重庆市**三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)
 - ***2022***
   - 硕士二年级学业**特等奖学金** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/ScholarshipS.jpg)
-  - 第十四届蓝桥杯python国赛**国家三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)
+  - 第十四届蓝桥杯python程序设计国赛**国家三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)
   - 第十二届MathorCup数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022MathorCup.pdf)
   - 第三届“华数杯”数学建模竞赛**三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022HuaShu.pdf)
 - ***2021***
-  - 硕士一年级学业**特等奖学金**
-  - 第十一届APMCM数学建模竞赛**二等奖**
+  - 硕士一年级学业**特等奖学金** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2021/ScholarshipS.jpg)
+  - 第十一届APMCM数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2021/2021APMCM.pdf)
 - ***2020***
+  - 2020MCM数学建模竞赛**Honorable Mention** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2020/2020MCM.pdf)
   - 2020-2021学年学业**二等奖学金**
-  - 2020MCM数学建模竞赛**Honorable Mention**
 - ***2019***
+  - 第九届APMCM数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2019/2019APMCM.pdf)
+  - 第九届MathorCup数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2019/2019MathorCup.pdf)
+  - 第十届蓝桥杯C/C++程序设计上海市**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2019/2019lanqiao.jpg)
   - 2019-2020学年学业**三等奖学金**
-  - 第九届APMCM数学建模竞赛**二等奖**
-  - 第九届MathorCup数学建模竞赛**二等奖**
+
