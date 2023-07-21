@@ -77,16 +77,6 @@ DAG-FL is very good
  - one
  - two
 
-## <span style="color: #00369f;">3.DAG-view-fast</span>
-<div style="position: relative; padding: 30% 45%;">
-<iframe style="text-align: center; position: absolute; width: 85%; height: 85%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=913744026&bvid=BV1CM4y1s7nD&cid=1204867541&page=1" frameborder="no" scrolling="no"></iframe>
-<div style="text-align: center; position: absolute;"><b>DAG-FL is very good</b></div>
-</div>
-
-DAG-FL is very good
- - one
- - two
-
 <span class='anchor' id='-Projects'></span>
 
 Projects
