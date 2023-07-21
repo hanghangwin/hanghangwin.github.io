@@ -26,20 +26,6 @@ Education
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
 - *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, Bachelor of Engineering
 
-<span class='anchor' id='-Researches'></span>
-
-Researches
-======
-## <span style="color: #00369f;">1.Blockchain</span>
-<div class='paper-box-plus'><div class='paper-box-video'><video src='videos/WeBASE-video.mp4' alt="sym" width="100%" controls></video></div>
-<div class='paper-box-text' markdown="1">
-<b>Blockchain is very good</b>
-</div>
-</div>
-Blockchain is very good
- - one
- - two
-  
 <span class='anchor' id='-Publications'></span>
 
 Publications
@@ -66,6 +52,30 @@ Publications
 - 黄晓舸, **吴雨航**, 尹宏博, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利, 导师一作, 已受理).
 - 黄晓舸, 尹宏博, **吴雨航**, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (发明专利, 导师一作, 已受理).
 - 黄晓舸, 尹宏博, **吴雨航**, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (发明专利, 导师一作, 已受理).
+
+<span class='anchor' id='-Researches'></span>
+
+Researches
+======
+## <span style="color: #00369f;">1.Blockchain</span>
+<div class='paper-box-plus'><div class='paper-box-video'><video src='videos/WeBASE-video.mp4' alt="sym" width="100%" controls></video></div>
+<div class='paper-box-text' markdown="1">
+<b>Blockchain is very good</b>
+</div>
+</div>
+Blockchain is very good
+ - one
+ - two
+
+## <span style="color: #00369f;">2.DAG-FL</span>
+<div class='paper-box-plus'><div class='paper-box-video'><video src='videos/DAG-view-fast.mp4' alt="sym" width="100%" controls></video></div>
+<div class='paper-box-text' markdown="1">
+<b>DAG-FL is very good</b>
+</div>
+</div>
+DAG-FL is very good
+ - one
+ - two
 
 <span class='anchor' id='-Projects'></span>
 
