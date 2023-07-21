@@ -131,47 +131,6 @@
 
 }
 
-.paper-box-pplus {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    flex-wrap: wrap;
-    padding: 0.2em 0 0.2em 0;
-    
-    .paper-box-iframe{
-        display: flex;
-        width: 100%;
-        order: 1;
-        position: relative; 
-        padding: 30% 45%;
-    }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 2;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-iframe{
-            position: relative; 
-            min-width: 960px;
-            max-width: 85%;
-            padding: 30% 45%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-top: 1em;
-            max-width: 85%;
-            order: 2;
-        }
-
-    }
-
-}
-
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
