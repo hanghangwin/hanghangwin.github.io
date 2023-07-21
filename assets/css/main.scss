@@ -140,15 +140,11 @@
     padding: 0.2em 0 0.2em 0;
     
     .paper-box-iframe{
-        justify-content: center;
         display: flex;
         width: 100%;
         order: 1;
-        iframe {
-            max-width: 1200px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+        position: relative; 
+        padding: 30% 45%;
     }
     
     .paper-box-text{
@@ -158,9 +154,10 @@
     
     @include breakpoint($medium) {
         .paper-box-iframe{
-            justify-content: center;
+            position: relative; 
             min-width: 960px;
             max-width: 85%;
+            padding: 30% 45%;
             order: 1;
         }
         
