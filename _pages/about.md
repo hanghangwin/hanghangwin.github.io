@@ -30,6 +30,7 @@ Education
 
 Publications
 ======
+<span style="color: #00369f;">**Published**</span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,6 +49,7 @@ Publications
 </div>
 </div>
 
+<span style="color: #00369f;">**Patents**</span>
 - 黄晓舸, **吴雨航**, 尹宏博, 一种基于区块链的分层联邦学习方法, 202210980496.8 (发明专利, 导师一作, 已受理).
 - 黄晓舸, **吴雨航**, 尹宏博, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利, 导师一作, 已受理).
 - 黄晓舸, 尹宏博, **吴雨航**, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (发明专利, 导师一作, 已受理).
