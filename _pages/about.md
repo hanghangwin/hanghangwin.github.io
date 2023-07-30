@@ -79,6 +79,16 @@ DAG-FL is very good
  - one
  - two
 
+## <span style="color: #00369f;">3.CARLA simulation</span>
+<div class='paper-box-plus'><div class='paper-box-video'><video src='videos/CARLA-easy-view.mp4' alt="sym" width="100%" controls></video></div>
+<div class='paper-box-text' markdown="1">
+<b>CARLA simulation is very good</b>
+</div>
+</div>
+CARLA simulation is very good
+ - one
+ - two
+ 
 <span class='anchor' id='-Projects'></span>
 
 Projects
