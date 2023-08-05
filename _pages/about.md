@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='-Biography'></span>
 
-Yuhang Wu received the B.S. degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021.  He is currently working toward the M.S. degree in Information and Communication Engineering with Chongqing University of Posts and Telecommunications, Chongqing, China, under the supervision of professor [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm).  His main research interests are federated learning, edge computing network, blockchain and Internet of Vehicles.
+I'm a second year M.Eng.student at CQUPT, Chongqing, China, working toward the M.S. degree in Information and Communication Engineering supervised by Prof. [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). I received my B.Eng degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021. My current research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and automatic driving.
 
 <span class='anchor' id='-Education'></span>
 
 Education
 ======
-- *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, Master of Engineering
-- *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, Bachelor of Engineering
+- *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, M.Eng
+- *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, B.Eng
 
 <span class='anchor' id='-Publications'></span>
 
