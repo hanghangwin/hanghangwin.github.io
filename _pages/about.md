@@ -93,34 +93,32 @@ CARLA simulation is very good
 
 Projects
 ======
-- *2021.09 - 2023.12* **国家自然科学基金重点项目**(No. 61831002): 面向智能服务的雾无线接入网络动态协同理论与关键技术
-  - 负责设计基于区块链的分层联邦学习方法
-  - 负责搭建区块链可视化数据平台
-- *2020.04 - 2021.04* **国家级大学生科创项目**(No. 202010254185): 船用导航信息转发装置 [[Website]](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=677802&year=2021&type=student&IsLXItem=0)
-  - 主持设计NMEA-0183通信协议解析算法
-  - 主持开发基于LoRa技术的一对多传输机制
+- *2021.09 - 2023.12* **National Natural Science Foundation of China**(No. 61831002): Dynamic Collaborative Theory and Key Technologies for Fog-based Wireless Access 				Networks Targeting Intelligent Services
+  - Responsible for designing the blockchain-enabled hierarchical federated learning algorithm.
+  - Responsible for building the WeBASE Platform for visualizing transaction data in blockchain.
+- *2020.04 - 2021.04* **National Training Program of Innovation for Undergraduates**(No. 202010254185): Forwarding Device for Marine Navigation Informations [[Website]](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=677802&year=2021&type=student&IsLXItem=0)
+  - Preside over designing the NMEA-0183 communication protocol parsing algorithm.
+  - Preside over developing  the one-to-many transmission mechanism based on LoRa technology.
 
 <span class='anchor' id='-Honors'></span>
 
 Honors
 ======
 - ***2023***
-  - 第十四届蓝桥杯python程序设计重庆市**一等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)
-  - 第十届大唐杯重庆市**三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)
+  - The 14th LanqiaoCup Python Programming Contest, **Provincial First Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)
+  - The 10th DatangCup Communication Technologies Contest, **Provincial Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)
 - ***2022***
-  - 硕士二年级学业**特等奖学金** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/ScholarshipS.jpg)
-  - 第十四届蓝桥杯python程序设计国赛**国家三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)
-  - 第十二届MathorCup数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022MathorCup.pdf)
-  - 第三届“华数杯”数学建模竞赛**三等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2022/2022HuaShu.pdf)
+  - **Outstanding** Academic Scholarship of Master's Second Year [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/ScholarshipS.jpg)
+  - The 13th LanqiaoCup Python Programming Contest, **National Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)
+  - The 12th MathorCup Mathematical Contest in Modeling, **National Second Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022MathorCup.pdf)
+  - The 3th HuashuCup Mathematical Contest in Modeling, **National Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022HuaShu.pdf)
 - ***2021***
-  - 硕士一年级学业**特等奖学金** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2021/ScholarshipS.jpg)
-  - 第十一届APMCM数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2021/2021APMCM.pdf)
+  - **Outstanding** Academic Scholarship of Master's First Year [[Certificate]](http://hanghangwin.github.io/files/Honors/2021/ScholarshipS.jpg)
+  - The 11th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2021/2021APMCM.pdf)
 - ***2020***
-  - 2020MCM数学建模竞赛**Honorable Mention** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2020/2020MCM.pdf)
-  - 2020-2021学年学业**二等奖学金**
+  - 2020 Mathematical Contest in Modeling (MCM), **International Honorable Mention** [[Certificate]](http://hanghangwin.github.io/files/Honors/2020/2020MCM.pdf)
 - ***2019***
-  - 第九届APMCM数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2019/2019APMCM.pdf)
-  - 第九届MathorCup数学建模竞赛**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2019/2019MathorCup.pdf)
-  - 第十届蓝桥杯C/C++程序设计上海市**二等奖** [[获奖证书]](http://hanghangwin.github.io/files/Honors/2019/2019lanqiao.jpg)
-  - 2019-2020学年学业**三等奖学金**
+  - The 9th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2019/2019APMCM.pdf)
+  - The 9th MathorCup Mathematical Contest in Modeling, **National Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2019/2019MathorCup.pdf)
+  - The 10th LanqiaoCup C/C++ Programming Contest, **Provincial Second Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2019/2019lanqiao.jpg)
 
