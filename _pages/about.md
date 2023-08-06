@@ -65,7 +65,7 @@ Researches
 <b>Blockchain is very good</b>
 </div>
 </div>
-Blockchain is very good
+The video shown a blockchain verification platform developed by WeBASE and FISCO provided by the WebankTeam. This platform is designed to verify and visualize transactions within the blockchain, recording the edge and global model updated information for blockchain-enable hierarchical federated learning.
  - one
  - two
 
