@@ -87,10 +87,10 @@ The video shown an automatic driving simulation developed by the [CARLA team](ht
 
 Projects
 ======
-- *2021.09 - 2023.12* **National Natural Science Foundation of China**(No. 61831002): Dynamic Collaborative Theory and Key Technologies for Fog-based Wireless Access 				Networks Targeting Intelligent Services
+- *2021.09 - 2023.12* **National Natural Science Foundation of China** (No. 61831002): Dynamic Collaborative Theory and Key Technologies for Fog-based Wireless Access 				Networks Targeting Intelligent Services
   - Responsible for designing the blockchain-enabled hierarchical federated learning algorithm.
   - Responsible for building the WeBASE Platform for visualizing transaction data in blockchain.
-- *2020.04 - 2021.04* **National Training Program of Innovation for Undergraduates**(No. 202010254185): Forwarding Device for Marine Navigation Informations [[Website]](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=677802&year=2021&type=student&IsLXItem=0)
+- *2020.04 - 2021.04* **National Training Program of Innovation for Undergraduates** (No. 202010254185): Forwarding Device for Marine Navigation Informations [[Website]](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=677802&year=2021&type=student&IsLXItem=0)
   - Preside over designing the NMEA-0183 communication protocol parsing algorithm.
   - Preside over developing  the one-to-many transmission mechanism based on LoRa technology.
 
