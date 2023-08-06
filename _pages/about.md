@@ -50,11 +50,11 @@ Publications
 </div>
 
 <span style="color: #00369f;">**Patents**</span>
-- 黄晓舸, **吴雨航**, 尹宏博, 一种基于区块链的分层联邦学习方法, 202210980496.8 (发明专利, 导师一作, 已受理).
-- 黄晓舸, **吴雨航**, 尹宏博, 一种基于区块链的分布式智能辅助自动驾驶方法, 202310562721.0 (发明专利, 导师一作, 已受理).
-- 黄晓舸, 尹宏博, **吴雨航**, 一种车联网中基于区块链的异步联邦学习方法, 202210916511.2 (发明专利, 导师一作, 已受理).
-- 黄晓舸, 尹宏博, **吴雨航**, 一种基于区块链的车联网安全数据共享方法, 202310636636.4 (发明专利, 导师一作, 已受理).
-
+- Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, "A Blockchain-enabled Distributed Intelligent for Assisting Autonomous Driving Method", Chinese Patent, No. 202310562721.0, 2023.
+- Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, "A Blockchain-enabled Hierarchical Federated Learning Method", Chinese Patent, No. 202210980496.8, 2022.
+- Xiaoge Huang, Hongbo Yin, **Yuhang Wu**, "A Blockchain-Based Secure Data Sharing Method in Internet of Vehicles", No. 202310636636.4, 2023.
+- Xiaoge Huang, Hongbo Yin, **Yuhang Wu**, "A Blockchain-Based Asynchronous Federated Learning Method in Internet of Vehicles" , No. 202210916511.2, 2022.
+- 
 <span class='anchor' id='-Researches'></span>
 
 Researches
