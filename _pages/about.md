@@ -59,15 +59,15 @@ Publications
 
 Researches
 ======
-## <span style="color: #00369f;">1.Blockchain</span>
+## <span style="color: #00369f;">1.Blockchain-enabled HFL</span>
 <div class='paper-box-plus'><div class='paper-box-video'><video src='videos/WeBASE-video.mp4' alt="sym" width="100%" controls></video></div>
 <div class='paper-box-text' markdown="1">
-<b>Blockchain-enabled hierarchical FL</b>
+<b>Blockchain-enabled HFL</b>
 </div>
 </div>
-The video shown a blockchain verification platform developed based on WeBASE and FISCO provided by the WebankTeam. This platform is designed to verify and visualize transactions within the blockchain, recording the edge and global model updated information for blockchain-enable hierarchical federated learning.
+The video shown a blockchain verification platform developed based on WeBASE and FISCO provided by the WebankTeam. This platform is designed to verify and visualize transactions within the blockchain, recording the edge and global model updated information for blockchain-enable hierarchical federated learning (HFL).
 
-## <span style="color: #00369f;">2.DAG-FL</span>
+## <span style="color: #00369f;">2.DAG blockchain-based FL</span>
 <div class='paper-box-plus'><div class='paper-box-video'><video src='videos/DAG-view-fast.mp4' alt="sym" width="100%" controls></video></div>
 <div class='paper-box-text' markdown="1">
 <b>DAG blockchain-based FL</b>
@@ -75,15 +75,13 @@ The video shown a blockchain verification platform developed based on WeBASE and
 </div>
 The video shown a platform for recording the process of transaction verification and model training in directed acyclic graph (DAG) blockchain-based federated learning.  The execution logic of the platform was developed using the pySimuFL provided by Dr. Cao in DAG-FL, while the presentation of information is based on the Dash repositories. The code is accessible in DashDAGView.
 
-## <span style="color: #00369f;">3.CARLA simulation</span>
+## <span style="color: #00369f;">3.FL for automatic driving</span>
 <div class='paper-box-plus'><div class='paper-box-video'><video src='videos/CARLA-easy-view.mp4' alt="sym" width="100%" controls></video></div>
 <div class='paper-box-text' markdown="1">
-<b>CARLA simulation is very good</b>
+<b>CARLA simulation</b>
 </div>
 </div>
-CARLA simulation is very good
- - one
- - two
+The video shown an automatic driving simulation developed by the CARLA team. Currently, it enables straightforward environment construction and control of pedestrians and vehicles. In future research, the simulation will be utilized to verify the performance of federated learning in assisting automatic driving.
  
 <span class='anchor' id='-Projects'></span>
 
