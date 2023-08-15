@@ -48,7 +48,7 @@ Publications
 </div>
 
 <span style="color: #00369f;">**Submited**</span>
-- **Yuhang Wu**, Xiaoge Huang, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "DAG Blockchain-based Personalized Federated Mutual Learning in Internet of Vehicles," Submited to Journal of Electronics & Information Technology, 2023. [[Techrxiv]]([https://ieeexplore.ieee.org/document/10039121](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408))
+- **Yuhang Wu**, Xiaoge Huang, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "DAG Blockchain-based Personalized Federated Mutual Learning in Internet of Vehicles," Submited to Journal of Electronics & Information Technology, 2023. [[Techrxiv]](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408)
 
 <span style="color: #00369f;">**Patents**</span>
 - Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, "A Blockchain-enabled Distributed Intelligent for Assisting Autonomous Driving Method", Chinese Patent, No. 202310562721.0, 2023.
