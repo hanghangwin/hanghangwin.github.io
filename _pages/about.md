@@ -34,8 +34,7 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor), Early Access)  
-[[Website]](https://ieeexplore.ieee.org/document/10167763)
+-	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor), Early Access)  [[Website]](https://ieeexplore.ieee.org/document/10167763)
 
 </div>
 </div>
@@ -43,11 +42,13 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, **Yuhang Wu**, Zhi Chen, Qianbin Chen and Jie Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 33-37. (CCF-B, 1st (supervisor), Published)  
-[[Website]](https://ieeexplore.ieee.org/document/10039121)
+-	Xiaoge Huang, **Yuhang Wu**, Zhi Chen, Qianbin Chen, and Jie Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," in 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 33-37. (1st (supervisor), Published)  [[Website]](https://ieeexplore.ieee.org/document/10039121)
 
 </div>
 </div>
+
+<span style="color: #00369f;">**Submited**</span>
+- **Yuhang Wu**, Xiaoge Huang, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "DAG Blockchain-based Personalized Federated Mutual Learning in Internet of Vehicles," Submited to Journal of Electronics & Information Technology, 2023. [[Techrxiv]]([https://ieeexplore.ieee.org/document/10039121](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408))
 
 <span style="color: #00369f;">**Patents**</span>
 - Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, "A Blockchain-enabled Distributed Intelligent for Assisting Autonomous Driving Method", Chinese Patent, No. 202310562721.0, 2023.
