@@ -100,13 +100,13 @@ Projects
 Honors
 ======
 - ***2023***
-  - The 14th LanqiaoCup Python Programming Contest, **Provincial First Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)
-  - The 10th DatangCup Communication Technologies Contest, **Provincial Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)
+  - The 14th LanqiaoCup Python Programming Contest, **Provincial First Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)-->
+  - The 10th DatangCup Communication Technologies Contest, **Provincial Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)-->
 - ***2022***
-  - **Outstanding** Academic Scholarship of Master's Second Year [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/ScholarshipS.jpg)
-  - The 13th LanqiaoCup Python Programming Contest, **National Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)
-  - The 12th MathorCup Mathematical Contest in Modeling, **National Second Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022MathorCup.pdf)
-  - The 3th HuashuCup Mathematical Contest in Modeling, **National Third Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022HuaShu.pdf)
+  - **Outstanding** Academic Scholarship of Master's Second Year <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/ScholarshipS.jpg)-->
+  - The 13th LanqiaoCup Python Programming Contest, **National Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)-->
+  - The 12th MathorCup Mathematical Contest in Modeling, **National Second Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022MathorCup.pdf)-->
+  - The 3th HuashuCup Mathematical Contest in Modeling, **National Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022HuaShu.pdf)-->
 - ***2021***
   - **Outstanding** Academic Scholarship of Master's First Year [[Certificate]](http://hanghangwin.github.io/files/Honors/2021/ScholarshipS.jpg)
   - The 11th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize** [[Certificate]](http://hanghangwin.github.io/files/Honors/2021/2021APMCM.pdf)
