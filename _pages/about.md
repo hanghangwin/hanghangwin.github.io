@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-Biography'></span>
 
-I'm a second year M.Eng.student at CQUPT, Chongqing, China, working toward the M.S. degree in Information and Communication Engineering supervised by Prof. [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). I received my B.Eng degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021. My current research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and automatic driving.
+I'm a second year M.Eng. student at CQUPT, Chongqing, China, working toward the M.Eng. degree in Information and Communication Engineering supervised by Prof. [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). I received my B.Eng degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021. My current research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and automatic driving.
 
 <span class='anchor' id='-Education'></span>
 
