@@ -82,7 +82,7 @@ The video shown a platform for recording the process of transaction verification
 <b>CARLA simulation</b>
 </div>
 </div>
-The video shown an automatic driving simulation developed by the [CARLA team](https://github.com/carla-simulator). Currently, it enables straightforward environment construction and control of pedestrians and vehicles. In future research, the simulation will be utilized to verify the performance of federated learning in assisting automatic driving.
+The video shown an automatic driving simulation developed by the [CARLA team](https://github.com/carla-simulator). Currently, it enables simple environment construction and control of pedestrians and vehicles. In future research, the simulation will be utilized to verify the performance of federated learning in assisting automatic driving.
  
 <span class='anchor' id='-Projects'></span>
 
