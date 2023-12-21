@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-Biography'></span>
 
-I'm a second year M.Eng. student at CQUPT, Chongqing, China, working toward the M.Eng. degree in Information and Communication Engineering supervised by Prof. [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). I received my B.Eng degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021. My current research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and automatic driving.
+I'm a final year M.Eng. student at CQUPT, Chongqing, China, working toward the M.Eng. degree in Information and Communication Engineering supervised by Prof. [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). I received my B.Eng degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021. My current research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and automatic driving.
 
 <span class='anchor' id='-Education'></span>
 
@@ -34,7 +34,7 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor), Early Access)  [[Website]](https://ieeexplore.ieee.org/document/10167763)
+-	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor))  [[Website]](https://ieeexplore.ieee.org/document/10167763)
 
 </div>
 </div>
@@ -42,13 +42,13 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, **Yuhang Wu**, Zhi Chen, Qianbin Chen, and Jie Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," in 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 33-37. (1st (supervisor), Published)  [[Website]](https://ieeexplore.ieee.org/document/10039121)
+-	Xiaoge Huang, **Yuhang Wu**, Zhi Chen, Qianbin Chen, and Jie Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," in 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 33-37. (1st (supervisor))  [[Website]](https://ieeexplore.ieee.org/document/10039121)
 
 </div>
 </div>
 
 <span style="color: #00369f;">**Submited**</span>
-- **Yuhang Wu**, Xiaoge Huang, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "DAG Blockchain-based Personalized Federated Mutual Learning in Internet of Vehicles," Submited to Journal of Electronics & Information Technology, 2023. [[Techrxiv]](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408)
+- Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "DAG Blockchain-based Personalized Federated Mutual Learning in Internet of Vehicles," Submited to Journal of Electronics & Information Technology, 2023. [[Techrxiv]](https://www.techrxiv.org/articles/preprint/DAG_Blockchain-based_Personalized_Federated_Mutual_learning_in_Internet_of_Vehicles/23757408)
 
 <span style="color: #00369f;">**Patents**</span>
 - Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, "A Blockchain-enabled Distributed Intelligent for Assisting Autonomous Driving Method", Chinese Patent, No. 202310562721.0, 2023.
@@ -92,28 +92,24 @@ Projects
   - Responsible for designing the blockchain-enabled hierarchical federated learning algorithm.
   - Responsible for building the WeBASE Platform for visualizing transaction data in blockchain.
 - *2020.04 - 2021.04* **National Training Program of Innovation for Undergraduates** (No. 202010254185): Forwarding Device for Marine Navigation Informations [[Website]](http://gjcxcy.bjtu.edu.cn/NewJTItemListForStudentDetail.aspx?ItemNo=677802&year=2021&type=student&IsLXItem=0)
-  - Preside over designing the NMEA-0183 communication protocol parsing algorithm.
-  - Preside over developing  the one-to-many transmission mechanism based on LoRa technology.
+  - Direct the design of the NMEA-0183 communication protocol parsing algorithm.
+  - Direct the develop of the one-to-many transmission mechanism based on LoRa technology.
 
 <span class='anchor' id='-Honors'></span>
 
 Honors
 ======
 - ***2023***
-  - The 14th LanqiaoCup Python Programming Contest, **Provincial First Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023lanqiaoR1.jpg)-->
-  - The 10th DatangCup Communication Technologies Contest, **Provincial Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2023/2023Datang.pdf)-->
+  - **National Scholarship** for postgraduate students
+  - The 10th DatangCup Communication Technologies Contest, **Provincial Third Prize**
 - ***2022***
-  - **Outstanding** Academic Scholarship of Master's Second Year <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/ScholarshipS.jpg)-->
-  - The 13th LanqiaoCup Python Programming Contest, **National Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022lanqiaoR3Plus.jpg)-->
-  - The 12th MathorCup Mathematical Contest in Modeling, **National Second Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022MathorCup.pdf)-->
-  - The 3th HuashuCup Mathematical Contest in Modeling, **National Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2022/2022HuaShu.pdf)-->
+  - **Outstanding** Academic Scholarship of Master's Second Year
+  - The 13th LanqiaoCup Python Programming Contest, **National Third Prize**
+  - The 12th MathorCup Mathematical Contest in Modeling, **National Second Prize**
+  - The 3th HuashuCup Mathematical Contest in Modeling, **National Third Prize**
 - ***2021***
-  - **Outstanding** Academic Scholarship of Master's First Year <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2021/ScholarshipS.jpg)-->
-  - The 11th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2021/2021APMCM.pdf)-->
+  - **Outstanding** Academic Scholarship of Master's First Year
+  - The 11th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize**
 - ***2020***
-  - 2020 Mathematical Contest in Modeling (MCM), **International Honorable Mention** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2020/2020MCM.pdf)-->
-- ***2019***
-  - The 9th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2019/2019APMCM.pdf)-->
-  - The 9th MathorCup Mathematical Contest in Modeling, **National Third Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2019/2019MathorCup.pdf)-->
-  - The 10th LanqiaoCup C/C++ Programming Contest, **Provincial Second Prize** <!--[[Certificate]](http://hanghangwin.github.io/files/Honors/2019/2019lanqiao.jpg)-->
+  - 2020 Mathematical Contest in Modeling (MCM), **International Honorable Mention**
 
