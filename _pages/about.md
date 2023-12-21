@@ -60,26 +60,26 @@ Publications
 
 Researches
 ======
-## <span style="color: #00369f;">1.Blockchain-enabled HFL</span>
+## <span style="color: #00369f;">1.Blockchain-enabled hierarchical federated learning</span>
 <div class='paper-box-plus'><div class='paper-box-video'><video src='videos/WeBASE-video.mp4' alt="sym" width="100%" controls></video></div>
 <div class='paper-box-text' markdown="1">
-<b>Blockchain-enabled HFL</b>
+<b>Blockchain-enabled hierarchical federated learning</b>
 </div>
 </div>
 The video shown a blockchain verification platform developed based on [WeBASE](https://github.com/WeBankBlockchain/WeBASE) and [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) provided by the WeBankBlockchain team. This platform is designed to verify and visualize transactions within the blockchain, recording the edge and global model updated information for blockchain-enable hierarchical federated learning (HFL).
 
-## <span style="color: #00369f;">2.DAG blockchain-based FL</span>
+## <span style="color: #00369f;">2.DAG blockchain-based federated learning</span>
 <div class='paper-box-plus'><div class='paper-box-video'><video src='videos/DAG-view-fast.mp4' alt="sym" width="100%" controls></video></div>
 <div class='paper-box-text' markdown="1">
-<b>DAG blockchain-based FL</b>
+<b>DAG blockchain-based federated learning</b>
 </div>
 </div>
 The video shown a platform for recording the process of transaction verification and model training in directed acyclic graph (DAG) blockchain-based federated learning.  The execution logic of the platform was developed using the pySimuFL provided by Dr. Cao in [DAG-FL](https://arxiv.org/abs/2104.13092), while the presentation of information is based on the [Dash](https://github.com/plotly/dash) repositories. The code is accessible in [DashDAGView](https://github.com/hanghangwin/DashDAGView).
 
-## <span style="color: #00369f;">3.FL for autonomous driving</span>
+## <span style="color: #00369f;">3.Federated learning for autonomous driving</span>
 <div class='paper-box-plus'><div class='paper-box-video'><video src='videos/TinyLong.mp4' alt="sym" width="100%" controls></video></div>
 <div class='paper-box-text' markdown="1">
-<b>CARLA simulation</b>
+<b>Federated learning for autonomous driving</b>
 </div>
 </div>
 The video shown an autonomous driving simulation developed by the [CARLA team](https://github.com/carla-simulator). 
