@@ -102,15 +102,15 @@ Honors
 ======
 - ***2023***
   - **National Scholarship** for postgraduate students
-  - The 10th DatangCup Communication Technologies Contest, **Provincial Third Prize**
+  - Chongqing 10th DatangCup Communication Technologies Contest, **Third Prize**
 - ***2022***
-  - **Outstanding** Academic Scholarship of Master's Second Year
-  - The 13th LanqiaoCup Python Programming Contest, **National Third Prize**
-  - The 12th MathorCup Mathematical Contest in Modeling, **National Second Prize**
-  - The 3th HuashuCup Mathematical Contest in Modeling, **National Third Prize**
+  - **First Class** Academic Scholarship of Master's Second Year
+  - National 13th LanqiaoCup Python Programming Contest, **Third Prize**
+  - National 12th MathorCup Mathematical Contest in Modeling, **Second Prize**
+  - National 3th HuashuCup Mathematical Contest in Modeling, **Third Prize**
 - ***2021***
-  - **Outstanding** Academic Scholarship of Master's First Year
-  - The 11th Asia and Pacific Mathematical Contest in Modeling (APMCM), **International Second Prize**
+  - **First Class** Academic Scholarship of Master's First Year
+  - International 11th Asia and Pacific Mathematical Contest in Modeling (APMCM), **Second Prize**
 - ***2020***
-  - 2020 Mathematical Contest in Modeling (MCM), **International Honorable Mention**
+  - International 2020 Mathematical Contest in Modeling (MCM), **Honorable Mention**
 
