@@ -34,7 +34,7 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, 1st (supervisor))  [[Website]](https://ieeexplore.ieee.org/document/10167763)
+-	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, vol. 10, no. 21, pp. 19163-19176, 1 Nov.1, 2023, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, first student author)  [[Website]](https://ieeexplore.ieee.org/document/10167763)
 
 </div>
 </div>
@@ -42,7 +42,15 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/BHCFL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Xiaoge Huang, **Yuhang Wu**, Zhi Chen, Qianbin Chen, and Jie Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," in 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 33-37. (1st (supervisor))  [[Website]](https://ieeexplore.ieee.org/document/10039121)
+-	Xiaoge Huang, **Yuhang Wu**, Zhi Chen, Qianbin Chen, and Jie Zhang, "Blockchain-enabled Edge Computing Framework for Hierarchic Cluster-based Federated Learning," in 2022 14th International Conference on Wireless Communications and Signal Processing (**WCSP**), Nanjing, China, 2022, pp. 33-37. first student author)  [[Website]](https://ieeexplore.ieee.org/document/10039121)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/MRASL-view.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Hongbo Yin, Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, and Qianbin Chen, "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles," in **IEEE Communications Letters**, vol. 27, no. 11, pp. 2978-2982, Nov. 2023, doi: 10.1109/LCOMM.2023.3314662. (JCR: Q1, IF: 4.1, second student author)  [[Website]](https://ieeexplore.ieee.org/abstract/document/10247620)
 
 </div>
 </div>
