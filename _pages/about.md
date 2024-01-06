@@ -47,7 +47,7 @@ Publications
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCSP 2022</div><img src='images/MRASL-view.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE CommL</div><img src='images/MRASL-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Hongbo Yin, Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, and Qianbin Chen, "Multi-Region Asynchronous Swarm Learning for Data Sharing in Large-Scale Internet of Vehicles," in **IEEE Communications Letters**, vol. 27, no. 11, pp. 2978-2982, Nov. 2023, doi: 10.1109/LCOMM.2023.3314662. (JCR: Q1, IF: 4.1, second student author)  [[Website]](https://ieeexplore.ieee.org/abstract/document/10247620)
