@@ -87,7 +87,10 @@ The video shown a platform for recording the process of transaction verification
 ## <span style="color: #00369f;">3.Federated learning for autonomous driving</span>
 <iframe src="https://www.youtube.com/embed/BA0SicgHGsU" frameborder="0" allowfullscreen="" style="transform: scale(0.8);"></iframe>
 The video shown an autonomous driving simulation developed by the [CARLA team](https://github.com/carla-simulator). 
-This project is inspired by [Idrees Razak's work](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning), and I added federated learning as behaviour clonong for pre-training of Actor Network. This video is the later training stage of PPO for autonomous driving.
+This project is inspired by [Idrees Razak's work](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning), and I added federated learning as behaviour clonong for pre-training of Actor Network. This video shows the auto-driving in Town07.
+
+<iframe src="https://www.youtube.com/embed/gs8DpaJs_jE" frameborder="0" allowfullscreen="" style="transform: scale(0.8);"></iframe>
+Further, I trained these algorithms in Town05, and while the speed of the vehicle increased, the steering control is not as stable as in Town07.
 
 <span class='anchor' id='-Projects'></span>
 
