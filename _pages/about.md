@@ -85,11 +85,7 @@ The video shown a blockchain verification platform developed based on [WeBASE](h
 The video shown a platform for recording the process of transaction verification and model training in directed acyclic graph (DAG) blockchain-based federated learning.  The execution logic of the platform was developed using the pySimuFL provided by Dr. Cao in [DAG-FL](https://arxiv.org/abs/2104.13092), while the presentation of information is based on the [Dash](https://github.com/plotly/dash) repositories. The code is accessible in [DashDAGView](https://github.com/hanghangwin/DashDAGView).
 
 ## <span style="color: #00369f;">3.Federated learning for autonomous driving</span>
-<div class='paper-box-plus'><div class='paper-box-video'><video src='videos/TinyLong.mp4' alt="sym" width="100%" controls></video></div>
-<div class='paper-box-text' markdown="1">
-<b>Federated learning for autonomous driving</b>
-</div>
-</div>
+<iframe src="https://www.youtube.com/embed/BA0SicgHGsU" frameborder="0" allowfullscreen=""></iframe>
 The video shown an autonomous driving simulation developed by the [CARLA team](https://github.com/carla-simulator). 
 This project is inspired by [Idrees Razak's work](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning), and I added federated learning as behaviour clonong for pre-training of Actor Network. This video is the later training stage of PPO for autonomous driving.
 
