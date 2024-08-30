@@ -40,7 +40,7 @@ Publications
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEIT</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEIT</div><img src='images/DAFML-view.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "Direct Acyclic Graph Blockchain-based Personalized Federated Mutual Distillation Learning in Internet of Vehicles," in **Introduction of Journal of Electronics & Information Technology**, vol. 46, no. 7, pp. 2821-2830, 2024, doi: 10.11999/JEIT230976. (Chinese journal, first student author)  [[Website]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT230976)
