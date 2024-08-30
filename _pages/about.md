@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='-Biography'></span>
 
-I'm a final year M.Eng. student at CQUPT, Chongqing, China, working toward the M.Eng. degree in Information and Communication Engineering supervised by Prof. [Xiaoge Huang](https://faculty.cqupt.edu.cn/huangxg/zh_CN/index.htm). I received my B.Eng degree in Communication Engineering from Shanghai Maritime University, Shanghai, China, in 2021. My current research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and autonomous driving.
+I'm a first year full-time PhD student at [University of Exeter](https://www.exeter.ac.uk/), Exeter, United Kingdom, working toward the PhD degree in Computer Science supervised by Prof. [Jia Hu](https://computerscience.exeter.ac.uk/people/profile/index.php?web_id=jh815). My research interests are federated learning, edge computing network, blockchain, Internet of Vehicles and autonomous driving, and supported by China Scholarship Council and University of Exeter Scholarships.
 
 <span class='anchor' id='-Education'></span>
 
 Education
 ======
+- *2024.09 - now*, University of Exeter, Computer Science, PhD
 - *2021.09 - 2024.06*, Chongqing University of Posts and Telecommunications, Information and communication engineering, M.Eng
 - *2017.09 - 2021.06*, Shanghai Maritime University, Communication engineering, B.Eng
 
@@ -35,6 +36,14 @@ Publications
 <div class='paper-box-text' markdown="1">
 
 -	Xiaoge Huang, **Yuhang Wu**, Chengchao Liang, Qianbin Chen, and Jie Zhang, "Distance-Aware Hierarchical Federated Learning in Blockchain-enabled Edge Computing Network," in **IEEE Internet of Things Journal**, vol. 10, no. 21, pp. 19163-19176, 1 Nov.1, 2023, doi: 10.1109/JIOT.2023.3279983. (JCR: Q1, IF: 10.6, first student author)  [[Website]](https://ieeexplore.ieee.org/document/10167763)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JEIT</div><img src='images/DAHFL-view.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Xiaoge Huang, **Yuhang Wu**, Hongbo Yin, Chengchao Liang, and Qianbin Chen, "Direct Acyclic Graph Blockchain-based Personalized Federated Mutual Distillation Learning in Internet of Vehicles," in **Introduction of Journal of Electronics & Information Technology**, vol. 46, no. 7, pp. 2821-2830, 2024, doi: 10.11999/JEIT230976. (Chinese journal, first student author)  [[Website]](https://jeit.ac.cn/en/article/doi/10.11999/JEIT230976)
 
 </div>
 </div>
