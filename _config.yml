@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google-site-verification=LVyWI02afTET5GBISd-MKlqXqe2sGKWUmT3w9SuPDc0"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -83,7 +83,7 @@ author:
   name             : "Yuhang Wu"
   avatar           : "202103picture-square.jpg"
   bio              : "PhD Degree Candidate"
-  location         : "Chongqing, China"
+  location         : "Exeter, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : 
